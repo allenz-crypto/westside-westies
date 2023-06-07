@@ -250,6 +250,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
+  arm64-darwin-21
   arm64-darwin-22
 
 DEPENDENCIES
@@ -263,4 +264,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.3.26
+   2.3.13
